@@ -126,5 +126,5 @@ void Init()
 
 extern "C" ARK_API void InitApi()
 {
-	Init();
+	Init(); 
 }
