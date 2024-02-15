@@ -4,9 +4,14 @@
     "AutomaticPluginReloadSeconds": 5,
     "SaveWorldBeforePluginReload": true,
     "AttachToParent": true,
+    "DefaultMessaging": "Default",
     "DeleteOldLogs": {
       "Enable": true,
       "MaxAge": 24
+    },
+    "AutomaticCacheDownload": {
+      "Enable": true,
+      "DownloadCacheURL": "https://cdn.pelayori.com/cache/"
     }
   }
 }
